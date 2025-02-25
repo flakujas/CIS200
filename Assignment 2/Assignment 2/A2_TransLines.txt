@@ -1,0 +1,12 @@
+ Line          Line            Line
+ Name         Capacity      Efficiency          
+Line01         120.0           0.89
+Line02         85.0            0.88
+Line03         100.0           0.90
+Line04         110.0           0.91
+Line05         90.0            0.85
+Line06         95.0            0.96
+Line07         80.0            0.97
+Line08         75.0            0.96
+Line09         98.0            0.98
+Line10         136.0           0.95
